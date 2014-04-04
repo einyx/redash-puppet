@@ -1,0 +1,4 @@
+fixtures:
+  symlinks:
+      redash: "#{source_dir}"
+      python: "#{source_dir}/../python"
